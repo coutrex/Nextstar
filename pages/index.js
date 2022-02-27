@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
-        </p>
+         for more information visit site : <a href="ngopoot.com">ngopoot.com</a></p>
       </main>
 
       <Footer />
